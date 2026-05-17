@@ -1,3 +1,7 @@
+<img width="1920" height="1080" alt="Screenshot 2026-05-18 012442" src="https://github.com/user-attachments/assets/b3fc11a1-c81a-46b0-a978-cba2967af506" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-18 012500" src="https://github.com/user-attachments/assets/43c5ae9d-19b2-4ff0-912f-e9f690ac5cc6" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-18 012507" src="https://github.com/user-attachments/assets/81b259a0-bd54-430f-9d89-7092b9aa0af7" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-18 012512" src="https://github.com/user-attachments/assets/6d90be7e-6dcb-4585-8d8e-a278a2008c94" />
 # 🚀 Tugas Praktikum 10 — ReactJS
 ### Mata Kuliah: Pengembangan Desain Web (PDW)
 ### Universitas Muhammadiyah Yogyakarta
